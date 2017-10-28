@@ -1,5 +1,5 @@
 {
-    "name": "revolution/laravel-amazon-product-api",
+    "name": "rev/laravel-amazon-product-api",
     "description": "Amazon Product Advertising API for Laravel",
     "keywords": [
         "amazon",
