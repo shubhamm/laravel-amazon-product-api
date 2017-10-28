@@ -7,7 +7,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=5.0.0",
         "guzzlehttp/guzzle": "^6.2",
         "illuminate/support": "5.*",
         "exeu/apai-io": "^2.1"
